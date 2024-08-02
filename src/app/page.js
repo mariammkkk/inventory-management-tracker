@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Box, Stack, Typography, Button, Modal, TextField } from '@mui/material';
-import SearchAppBar from './components/header';
+import SearchAppBar from './header';
 import { firestore } from './firebase';
 import {
   collection, doc, getDocs, query, setDoc, deleteDoc, getDoc,
