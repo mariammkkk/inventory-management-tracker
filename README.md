@@ -1,5 +1,29 @@
 *NOTE: App may not function properly anymore due to Firestore expiration*\
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Inventory Management Tracker
+
+This project is an **Inventory Management Tracker** designed to streamline inventory operations. The application leverages modern web development technologies such as **Next.js**, **Firebase**, and **Material UI** to provide a responsive, real-time, and user-friendly interface for tracking and managing inventory.
+
+## Features
+- **Real-Time Updates**: Integrated with Firebase Firestore to ensure real-time synchronization of inventory data across devices.
+- **CRUD Operations**: Allows users to create, read, update, and delete inventory items efficiently.
+- **Responsive Design**: Developed with Material UI to provide a visually cohesive and mobile-friendly user interface.
+- **Server-Side Rendering (SSR)**: Implemented SSR with Next.js to enhance performance and SEO.
+
+## Tech Stack
+- **Frontend**: Next.js, Material UI
+- **Backend**: Firebase (Firestore for database and authentication)
+- **Programming Language**: JavaScript
+- **Deployment**: Vercel (or applicable hosting service)
+
+## How It Works
+1. **Real-Time Inventory Management**:
+   - Firestore integration enables instant updates when inventory data is modified.
+2. **CRUD Functionality**:
+   - Users can add, edit, delete, and view inventory items directly from the app.
+3. **Responsive UI**:
+   - Material UI ensures a clean and intuitive interface across desktops, tablets, and mobile devices.
+
 
 ## Getting Started
 
@@ -34,6 +58,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# inventory-management-tracker
-# inventory-management-tracker
+
+
+
